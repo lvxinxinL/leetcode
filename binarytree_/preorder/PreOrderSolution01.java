@@ -1,8 +1,6 @@
 package binarytree_.preorder;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * 前序遍历(迭代法)：中左右
@@ -22,7 +20,7 @@ public class PreOrderSolution01 {
         if (root == null) {
             return result;
         }
-        Stack<TreeNode> st = new Stack<>();
+        Deque<TreeNode> st = new LinkedList<>();
         st.push(root);
 
         while (!st.isEmpty()) {// 只要栈非空就循环执行里面的逻辑
