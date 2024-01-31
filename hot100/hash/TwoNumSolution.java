@@ -4,11 +4,12 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 /**
+ * 1. 两数之和
  * @author 乐小鑫
  * @version 1.0
  * @Date 2024-01-31-10:39
  */
-public class twoNumSolution {
+public class TwoNumSolution {
     public static void main(String[] args) {
         int[] nums = {2,11,7,15};
         System.out.println(Arrays.toString(twoSumByFor(nums, 9)));
