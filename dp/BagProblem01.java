@@ -6,7 +6,7 @@ package dp;
  * @version 1.0
  * @Date 2024-01-28-19:38
  */
-public class BagProblem1 {
+public class BagProblem01 {
     public static void main(String[] args) {
         int[] weight = {1,3,4};
         int[] value = {15,20,30};
