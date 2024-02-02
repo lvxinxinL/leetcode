@@ -1,4 +1,4 @@
-package dp;
+package dp.bagProblem;
 
 /**
  * 01 背包问题基础

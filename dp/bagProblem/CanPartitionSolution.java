@@ -1,4 +1,4 @@
-package dp;
+package dp.bagProblem;
 
 import java.util.Arrays;
 

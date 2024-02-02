@@ -1,4 +1,4 @@
-package dp;
+package dp.bagProblem;
 
 /**
  * 02 背包问题基础——滚动数组
