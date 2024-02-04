@@ -1,4 +1,4 @@
-package hot100.TwoPointers;
+package hot100.two_pointers;
 
 import java.util.Arrays;
 

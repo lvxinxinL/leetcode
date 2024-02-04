@@ -1,4 +1,4 @@
-package hot100.TwoPointers;
+package hot100.two_pointers;
 
 /**
  * 11. 盛最多水的容器
